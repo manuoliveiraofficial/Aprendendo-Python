@@ -6,3 +6,6 @@ Objetivo: Praticar os conceitos iniciais da linguagem
 
 ## ➥ Projeto nº 2: Verificação de média anual
 Objetivo: Praticar os conceitos iniciais da linguagem
+
+## ➥ Projeto nº 2: Impressão de formas geométricas simples
+Objetivo: Praticar loops for e while
